@@ -1,0 +1,14 @@
+OUTSIDE IS THE PROMPT
+
+THE MACHINE KNOWS
+
+Distance:         7.54 km
+Time outside:     4h 38m
+Elevation gain:   ~552 m
+Lowest point:     1,586 m
+Highest point:    2,057 m
+Track points:     366
+Start (UTC):      2026-10-11T01:27:19Z
+End (UTC):        2026-10-11T06:05:17Z
+
+BUT THE GPS DOESN'T KNOW EVERYTHING.

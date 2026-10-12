@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+# ABOUTME: Runs the local GPX-to-postcard command from the project checkout.
+# ABOUTME: Uses the bundled Ruby dependencies and reports concise errors.
+require "bundler/setup"
+require_relative "../lib/outside/cli"
+
+exit Outside::CLI.new.run(ARGV)
